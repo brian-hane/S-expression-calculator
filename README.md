@@ -3,7 +3,7 @@
 Python 3.7.3
 
 
-###How to run:
+### How to run:
 1. Download all the files
 2. open command prompt and direct to the location of files
 3. Run the driver.py function, below are examples of different ways it can be called
