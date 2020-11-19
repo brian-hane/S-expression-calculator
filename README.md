@@ -3,6 +3,14 @@
 Python 3.7.3
 
 
+#How to run:
+1. Download all the files
+2. open command prompt and direct to the location of files
+3. Run the driver.py function, below are examples of different ways it can be called
+    1. $ python driver.py "123"
+    2. $ python driver.py "(add 2 3)"
+    3. $ python driver.py "(multiply (add 1 2) 3)"
+
 ### driver.py
 Main file to run all the classes together. 
 It can be started in command line, with one valid argument as input
