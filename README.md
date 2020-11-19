@@ -11,7 +11,7 @@ It can be started in command line, with one valid argument as input
 ### parse.py
 ParseInput is an object to read and parse the string inputted by string manipulation.
 
-- **pasre_to_list()** method to parse the input string into an array
+ **parse_to_list()** method to parse the input string into an array
 ['(', 'multiply', '(', 'add', '1', '2', ')', '3', ')']
 
 
@@ -20,8 +20,8 @@ ParseInput is an object to read and parse the string inputted by string manipula
 ### calculator.py
 Calculator is an Object that can parse the Expression instance and provides the calculated expression
 
--Use **calculate()** method to calculate, input of this method is an Expression instance, output is a number(integer).
-- **addition()** method and **multiply()** method to compute addition and multiplication
+**calculate()** method to calculate, input of this method is an Expression instance, output is a number(integer).
+**addition()** method and **multiply()** method to compute addition and multiplication
 
 
 
