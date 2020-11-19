@@ -33,7 +33,7 @@ Calculator is an Object that can parse the Expression instance and provides the 
 
 
 ### expr.py
-Expression is an Object that stores the expression list and does basic manipulation on it.
+Expression is an Object that stores the expression list and does string manipulation to it
 
 **check_validation()** method checks whether an expression is a valid S-expression. It uses the is_valid(), is_integer(), and check_func(array).
 
